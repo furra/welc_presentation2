@@ -68,10 +68,8 @@ Tendency to confirm existing beliefs or preconceptions.
 
 * "This was a bad idea. I knew it; I should have never trusted you"
 * "I told you, all computer science students are nerds."
-*
----
-<h3>Confirmation Bias</h3>
 
+---
 <h4>Reason</h4>
 
 Convenience, doesn't challenge ideas.
@@ -89,8 +87,6 @@ Tendency to rely too heavily on the first piece of information perceived.
 <img src="images/anchoring_effect.jpg" alt="">
 
 ---
-<h3>Anchoring Bias</h3>
-
 <h4>Reason</h4>
 
 Convenience, it's harder to estimate numbers or information you don't know.
@@ -106,8 +102,6 @@ Preference for current state of affairs.
 "Resistance to change"
 
 ---
-<h3>Status-quo Bias</h3>
-
 <h4>Reason?</h4>
 
 Guess.
@@ -124,16 +118,12 @@ Tendency to believe that you are at a lesser risk of suffering a negative event 
 * "Relax. Your presentation will be well received."
 
 ---
-<h3>Optimism Bias</h3>
-
 <h4>Reason?</h4>
 
 Again, guess.
 
 ---
-<h3>Optimism Bias</h3>
-
-<img src="images/anchoring_effect.jpg" alt="">
+<img src="images/this_is_fine.png" alt="">
 
 ---
 <h3>Why care at all?</h3>
@@ -160,6 +150,17 @@ Again, guess.
 <br/>***-Aristotle***
 
 
+---
+<h3>References</h3>
+
+[www.businessinsider.com](http://www.businessinsider.com/cognitive-biases-that-affect-decisions-2015-8)
+[dispatchist.com](https://dispatchist.com/mind-hacks-cognitive-bias/)
+[www.sagu.edu](https://www.sagu.edu/thoughthub/the-affects-of-anchoring-bias-on-human-behavior)
+[www.quora.com](https://www.quora.com/Why-is-it-important-to-know-about-cognitive-biases)
+[www.freemake.com](http://www.freemake.com/blog/20-funny-things-to-ask-google/)
+[en.wikipedia.org](https://en.wikipedia.org/wiki/Bias)
+[gunshowcomic.com](http://gunshowcomic.com/648)
+[en.wikipedia.org](https://en.wikipedia.org/wiki/Google#/media/File:Google_web_search.png)
 
 ---
 <h3>Questions?</h3>
