@@ -156,12 +156,11 @@ Again, guess.
 ---
 <h3>More biases</h3>
 
-<img src="images/cognitive_biases.png" alt="">
+[www.businessinsider.com](https://amp.businessinsider.com/images/56a111b8e6183e263a8badf6-1136-2127.png)
 
 ---
 <h3>References</h3>
 
-[www.businessinsider.com](http://www.businessinsider.com/cognitive-biases-that-affect-decisions-2015-8)
 
 [dispatchist.com](https://dispatchist.com/mind-hacks-cognitive-bias/)
 
