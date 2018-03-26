@@ -42,10 +42,12 @@ There are also different types:
 ---
 <h3>Causes</h3>
 
+<div class="left_align">
 Bias can arise from various processes.
-
+</div>
+<div class="left_align">
 Some of them are:
-
+</div>
 * Heuristics (method not perfect but sufficient)
 * Noisy information processing
 * Brain's information processing capacity (limited)
@@ -70,12 +72,12 @@ Tendency to confirm existing beliefs or preconceptions.
 * "I told you, all computer science students are nerds."
 
 ---
-<h4>Reason</h4>
+<h4>Possible Reason</h4>
 
 Convenience, doesn't challenge ideas.
 
-
-
+<br/>
+<br/>
 "There are no facts, only interpretations"
 <br/>***-Friedrich Nietzsche***
 
@@ -87,7 +89,7 @@ Tendency to rely too heavily on the first piece of information perceived.
 <img src="images/anchoring_effect.jpg" alt="">
 
 ---
-<h4>Reason</h4>
+<h4>Possible Reason</h4>
 
 Convenience, it's harder to estimate numbers or information you don't know.
 
@@ -102,7 +104,7 @@ Preference for current state of affairs.
 "Resistance to change"
 
 ---
-<h4>Reason?</h4>
+<h4>Possible Reason?</h4>
 
 Guess.
 
@@ -118,7 +120,7 @@ Tendency to believe that you are at a lesser risk of suffering a negative event 
 * "Relax. Your presentation will be well received."
 
 ---
-<h4>Reason?</h4>
+<h4>Possible Reason?</h4>
 
 Again, guess.
 
@@ -145,21 +147,34 @@ Again, guess.
 ---
 
 
-
+<div style="vertical-align: middle;">
 "It is the mark of an educated mind to be able to entertain a thought without accepting it."
 <br/>***-Aristotle***
+</div>
 
+
+---
+<h3>More biases</h3>
+
+<img src="images/cognitive_biases.png" alt="">
 
 ---
 <h3>References</h3>
 
 [www.businessinsider.com](http://www.businessinsider.com/cognitive-biases-that-affect-decisions-2015-8)
+
 [dispatchist.com](https://dispatchist.com/mind-hacks-cognitive-bias/)
+
 [www.sagu.edu](https://www.sagu.edu/thoughthub/the-affects-of-anchoring-bias-on-human-behavior)
+
 [www.quora.com](https://www.quora.com/Why-is-it-important-to-know-about-cognitive-biases)
+
 [www.freemake.com](http://www.freemake.com/blog/20-funny-things-to-ask-google/)
+
 [en.wikipedia.org](https://en.wikipedia.org/wiki/Bias)
+
 [gunshowcomic.com](http://gunshowcomic.com/648)
+
 [en.wikipedia.org](https://en.wikipedia.org/wiki/Google#/media/File:Google_web_search.png)
 
 ---
