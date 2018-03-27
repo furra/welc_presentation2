@@ -6,32 +6,29 @@
 Source: [xkcd](https://xkcd.com/385/)
 
 Felipe Urra
+
 ---
 <h2>What is bias?</h2>
+
+"Prejudice in favour of or against one thing, person, or group compared with another, usually in a way considered to be unfair."
+<br/>***-Wikipedia***
 
 "Prefering something over another thing"
 <br/>***-Felipe Urra***
 
-"Prejudice in favour of or against one thing, person, or group compared with another, usually in a way considered to be unfair."
-<br/>***-Wikipedia***
 ---
 <h3>Bias</h3>
-Bias means different things in different disciplines:
+In terms of culture:
 
-* Statistics
-* Psychology
-* Engineering
-* Math
+"Biased means one-sided, lacking a neutral viewpoint, or not having an open mind."
 
-There are also different types:
+There are different types of biases:
 
 * Social biases
 * Memory biases
+* **Cognitive biases**
 ---
 <h3>Cognitive biases</h3>
-
-"Systematic pattern of deviation from norm or rationality in judgment."
-<br/>***-Wikipedia***
 
 "Systematic error in thinking that affects the decisions and judgments that people make."
 <br/>***-www.verywellmind.com***
@@ -60,7 +57,6 @@ Some of them are:
 * Confirmation bias
 * Anchoring bias
 * Pro-innovation bias
-* Survivorship bias
 * Optimism bias
 
 ---
@@ -97,21 +93,6 @@ Neither should a ship rely on one small anchor, nor should life rest on a single
 <br/>***-Epictetus***
 
 ---
-<h3>Status-quo Bias</h3>
-
-Preference for current state of affairs.
-
-"Resistance to change"
-
----
-<h4>Possible Reason?</h4>
-
-Guess.
-
-"Change your life today. Don't gamble on the futute, act now, without delay"
-<br/>***-Simone De Beauvoir***
-
----
 <h3>Optimism Bias</h3>
 
 Tendency to believe that you are at a lesser risk of suffering a negative event compared to others.
@@ -122,7 +103,7 @@ Tendency to believe that you are at a lesser risk of suffering a negative event 
 ---
 <h4>Possible Reason?</h4>
 
-Again, guess.
+Guess.
 
 ---
 <img src="images/this_is_fine.png" alt="">
@@ -140,7 +121,6 @@ Again, guess.
 * We are all biased.
 * There are many cognitive biases and they all affect our decisions
 * If we are aware of these biases, we can minimize their effect
-* Human memory is really poor
 * We think we are rational, but we're not fully rational all the time
 * Important for understanding ourselves and relate effectively with others
 
@@ -151,7 +131,6 @@ Again, guess.
 "It is the mark of an educated mind to be able to entertain a thought without accepting it."
 <br/>***-Aristotle***
 </div>
-
 
 ---
 <h3>More biases</h3>
