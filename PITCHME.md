@@ -17,10 +17,7 @@ Felipe Urra
 <br/>***-Felipe Urra***
 
 ---
-<h3>Bias</h3>
-In terms of culture:
-
-"Biased means one-sided, lacking a neutral viewpoint, or not having an open mind."
+<h3>Types of biases</h3>
 
 There are different types of biases:
 
@@ -56,7 +53,6 @@ Some of them are:
 
 * Confirmation bias
 * Anchoring bias
-* Pro-innovation bias
 * Optimism bias
 
 ---
@@ -89,6 +85,8 @@ Tendency to rely too heavily on the first piece of information perceived.
 
 Convenience, it's harder to estimate numbers or information you don't know.
 
+<br/>
+<br/>
 Neither should a ship rely on one small anchor, nor should life rest on a single hope. 
 <br/>***-Epictetus***
 
