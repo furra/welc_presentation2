@@ -64,7 +64,7 @@ Tendency to confirm existing beliefs or preconceptions.
 * "I told you, all computer science students are nerds."
 
 ---
-<h4>Possible Reason</h4>
+<h3>Possible Reason</h3>
 
 Convenience, doesn't challenge ideas.
 
@@ -81,7 +81,7 @@ Tendency to rely too heavily on the first piece of information perceived.
 <img src="images/anchoring_effect.jpg" alt="">
 
 ---
-<h4>Possible Reason</h4>
+<h3>Possible Reason</h3>
 
 Convenience, it's harder to estimate numbers or information you don't know.
 
@@ -99,7 +99,7 @@ Tendency to believe that you are at a lesser risk of suffering a negative event 
 * "Relax. Your presentation will be well received."
 
 ---
-<h4>Possible Reason?</h4>
+<h3>Possible Reason?</h3>
 
 Guess.
 
