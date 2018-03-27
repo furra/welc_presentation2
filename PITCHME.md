@@ -87,7 +87,7 @@ Convenience, it's harder to estimate numbers or information you don't know.
 
 <br/>
 <br/>
-Neither should a ship rely on one small anchor, nor should life rest on a single hope. 
+"Neither should a ship rely on one small anchor, nor should life rest on a single hope."
 <br/>***-Epictetus***
 
 ---
@@ -114,7 +114,7 @@ Guess.
 * Understand others' people actions and behaviours
 
 <br/>
-An unexamined life is not worth living.
+"An unexamined life is not worth living."
 <br/>***-Socrates***
 
 ---
