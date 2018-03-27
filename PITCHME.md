@@ -122,8 +122,8 @@ Guess.
 
 * We are all biased.
 * There are many cognitive biases and they all affect our decisions
+* Our decisions are not always rational
 * If we are aware of these biases, we can minimize their effect
-* We think we are rational, but we're not fully rational all the time
 * Important for understanding ourselves and relate effectively with others
 
 ---
