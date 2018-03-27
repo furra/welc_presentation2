@@ -43,8 +43,8 @@ Bias can arise from various processes.
 Some of them are:
 </div>
 * Heuristics (method not perfect but sufficient)
-* Noisy information processing
 * Brain's information processing capacity (limited)
+* Noisy information processing
 * Emotional and moral motivations
 * Social influence
 
@@ -107,11 +107,15 @@ Guess.
 <img src="images/this_is_fine.png" alt="">
 
 ---
-<h3>Why care at all?</h3>
+<h3>Why is this important?</h3>
 
 * Allows to know ourselves and understand some limitations of human perception
 * To make better and rational decisions
 * Understand others' people actions and behaviours
+
+<br/>
+An unexamined life is not worth living.
+<br/>***-Socrates***
 
 ---
 <h3>Summary</h3>
